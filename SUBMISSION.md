@@ -15,6 +15,7 @@ Tushar Kumar
 
 - [5 pts]The section of the POM file showing the coordinates after you’ve commented them out.
 - ![HW5_5](figures/HW5_5.png)
+
 - [5 pts]Your GitHub Actions dashboard showing the unsuccessful build after the breaking change.
 - ![HW5_6](figures/HW5_6.png)
 
