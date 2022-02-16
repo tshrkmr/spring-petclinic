@@ -1,7 +1,3 @@
-```
-# Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
-```
-
 [![Java CI with Maven](https://github.com/tshrkmr/spring-petclinic/actions/workflows/maven.yml/badge.svg)](https://github.com/tshrkmr/spring-petclinic/actions/workflows/maven.yml)
 
 Deploy this sample application to Pivotal Web Services:
